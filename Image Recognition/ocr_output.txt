@@ -1,0 +1,25 @@
+OCR Results — Generated: 2026-05-25 14:28:18
+==================================================
+
+File: img1.jpg
+Confidence: 96.0%
+Extracted Text:
+Saying nothing
+sometimes says
+the most.
+--------------------------------------------------
+
+File: img2.png
+Confidence: 91.7%
+Extracted Text:
+Every path is
+the right path.
+--------------------------------------------------
+
+File: img3.png
+Confidence: 79.8%
+Extracted Text:
+dream a little|
+dream of me
+--------------------------------------------------
+
